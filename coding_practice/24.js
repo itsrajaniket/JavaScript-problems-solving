@@ -1,4 +1,4 @@
-// 242. Valid Anagram let see the code
+// 242. Valid Anagram let see the code for this
 
 var isAnagram = function (s, t) {
   let arr1 = s.split("").sort().join("");
