@@ -12,3 +12,4 @@ function reverseString(s) {
 // Test
 console.log(reverseString("hello")); // "olleh"
 console.log(reverseString("aniket")); // "tekina"
+console.log(reverseString("1234"));
