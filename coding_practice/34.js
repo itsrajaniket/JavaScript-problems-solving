@@ -16,3 +16,4 @@ console.log(firstWordLength("Hello World")); // 5
 console.log(firstWordLength("  fly me   to   the moon")); // 3 ("fly")
 console.log(firstWordLength("a")); // 1
 console.log(firstWordLength("a ")); // 1
+console.log(firstWordLength(" i am good ")); // 1
