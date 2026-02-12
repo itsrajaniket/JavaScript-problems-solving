@@ -1,6 +1,6 @@
 // Removing duplicates from arrays using set()
 
-const mySet = new Set([1, 2, 3, 3, 4, 5]);
+const mySet = new Set([1, 2, 3, 3, 4, 5, 6]);
 console.log(mySet); // Set(4) {1, 2, 3, 4}
 
 mySet.add(5);
