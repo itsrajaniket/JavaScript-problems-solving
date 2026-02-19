@@ -13,7 +13,7 @@ var isBalanced = function (root) {
 
     if (Math.abs(leftHeight - rightHeight) > 1) return -1; // current node not balanced
 
-    return Math.max(leftHeight, rightHeight) + 1; // return height
+    return Math.max(leftHeight, rightHeight) + 1; // return height .
   }
 
   return check(root) !== -1;
